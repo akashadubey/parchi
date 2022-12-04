@@ -82,7 +82,7 @@ function Sidebar() {
           >
             <span className="nav-loading">
               <InvoiceNavbarLoading loop />
-            </span><a href="/">
+            </span><a href="/parchi">
             Parची
             </a>
             

@@ -75,7 +75,7 @@ function Navbar() {
               damping: 20,
             }}
           > 
-          <a href="/">
+          <a href="/parchi">
             Parची
           </a>
             <InvoiceNavbarLoading

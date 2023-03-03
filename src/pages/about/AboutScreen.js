@@ -42,10 +42,10 @@ function AboutScreen() {
             <div>
               📫 How to reach me{" "}
               <a
-                href="mailto:akah.dubey@spit.ac.in"
+                href="mailto:akash.anil.dubey@gmail.com"
                 className="underline cursor-pointer"
               >
-                akash.dubey@spit.ac.in
+                akash.anil.dubey@gmail.com
               </a>{" "}
               (or){" "}
             

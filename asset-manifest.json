@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/parchi/static/css/main.7ef91a66.css",
-    "main.js": "/parchi/static/js/main.6b406bbd.js",
+    "main.js": "/parchi/static/js/main.af8379a9.js",
     "index.html": "/parchi/index.html",
     "main.7ef91a66.css.map": "/parchi/static/css/main.7ef91a66.css.map",
-    "main.6b406bbd.js.map": "/parchi/static/js/main.6b406bbd.js.map"
+    "main.af8379a9.js.map": "/parchi/static/js/main.af8379a9.js.map"
   },
   "entrypoints": [
     "static/css/main.7ef91a66.css",
-    "static/js/main.6b406bbd.js"
+    "static/js/main.af8379a9.js"
   ]
 }
